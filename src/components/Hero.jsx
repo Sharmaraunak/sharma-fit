@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import Button from "./button";
+import Button from "./Button";
 
 export default function Hero() {
   return (

@@ -3,7 +3,7 @@ import "react";
 import SectionWrapper from "./SectionWrapper";
 import { SCHEMES, WORKOUTS } from "../utils/fitness";
 import { useState } from "react";
-import Button from "./button";
+import Button from "./Button";
 
 function Header(props) {
   const { index, title, description } = props;
